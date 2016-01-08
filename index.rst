@@ -22,6 +22,7 @@ Draft
 
    1-procfile.rst
    2-dotenv.rst
+   3-dotslugignore.rst
 
 
 Retired

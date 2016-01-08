@@ -6,3 +6,5 @@ untrusted
 whitespace
 multiline
 env
+slugignore
+filesystem
