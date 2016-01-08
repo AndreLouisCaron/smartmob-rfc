@@ -4,7 +4,7 @@ RFC 2 -- .env file
 Abstract
 ~~~~~~~~
 
-This document specifies syntax of the ``.env`` file, a format for describing
+This document specifies syntax of the ``.env`` file, a format for describing
 a set of environment variables that should be injected into one or more child
 processes when running them.
 
